@@ -91,12 +91,12 @@ hr {
     font-style: italic;
     color: #6cc2ff;
 }
-.works-section {
+.about-section {
     text-align: center;
     padding: 10rem 2rem;
     background: linear-gradient(62deg, #070707 0%, #387eff 100%);
 }
-.works-section-header {
+.about-section-header {
     max-width: 640px;
     margin: 0 auto 6rem auto;
     border-bottom: 0.2rem solid var(--main-white);
